@@ -9,6 +9,6 @@ If you want to see all courses I have taken, please visit this [repository](http
 
 ## Slounge
 [Slounge CRM](https://github.com/lflucasferreira/slounge)
-> This project is designed to help freelancers control their invoices. 
+> This project was designed to help freelancers control their invoices. 
 
 ---
