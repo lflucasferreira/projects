@@ -7,6 +7,12 @@ If you want to see all courses I have taken, please visit this [repository](http
 
 ---
 
+## Achiiles
+[Achiiles ERP](https://github.com/lflucasferreira/achiiles)
+> This project was designed to help project managers and Scrum teams in order create sprints automatically based on the tasks priorities. It integrates Redmine and syncs all of the desired changes.
+
+---
+
 ## Slounge
 [Slounge CRM](https://github.com/lflucasferreira/slounge)
 > This project was designed to help freelancers control their invoices. 
